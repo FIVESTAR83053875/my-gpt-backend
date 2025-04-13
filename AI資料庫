@@ -1,0 +1,7 @@
+echo "# fivstar_AI" >> README.md 
+git init 
+git add README.md 
+git commit -m "首次提交" 
+git branch -M main 
+git remote add origin https://github.com/FIVESTAR83053875/fivstar_AIgin
+ git push -u
